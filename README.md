@@ -1,3 +1,3 @@
 # Sylabus-DevOps
 
-# DevOps Fundamental
+DevOps Fundamental
